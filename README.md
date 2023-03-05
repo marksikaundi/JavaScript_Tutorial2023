@@ -1,1 +1,1 @@
-# JS files
+# Getting started with JAVASCRIPT
